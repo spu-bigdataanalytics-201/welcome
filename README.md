@@ -48,7 +48,7 @@ SQL is the heartbeat of your Analytical life! You need to know it to some extend
 
 ### IDE
 
-My favorite, bittersweet tool, [Visual Studio Code](https://code.visualstudio.com/), Use it and love it!
+My favorite, bittersweet tool, [Visual Studio Code](https://code.visualstudio.com/), use it and you'll love it!
 
 There are alternatives of course, you are welcome to use those as well. The point is an IDE will make your life much easier if you choose to use one!
 
@@ -70,7 +70,7 @@ Databricks Community Edition | DataBricks | Databricks is a micro-cluster as wel
 Data Science Lab | Saint Peter's University (SPU) | SPU's computation resource is a cluster of workstations that can work together as one big systems. Be proud of it! | [Website](https://dsl.saintpeters.edu/), [How do you ...](https://dsl.saintpeters.edu/doku.php?id=how_do_i)
 You computer | You! | Your local computer where you can use local tools to do your stuff. | [ssh](https://en.wikipedia.org/wiki/Secure_Shell), [Putty (for windows users)](https://www.chiark.greenend.org.uk/~sgtatham/putty/), [Jupyter Notebooks](https://jupyter.org/), [Anaconda Distribution](https://www.anaconda.com/distribution/)
 
-## Assignments
+<h2> Assignments </h2>
 
 We use Github Classroom for assignments. Basically, how it works is described in down.
 
@@ -113,8 +113,9 @@ print(grade)
 ## Your To-Do List for This Task
 
 - [ ] Go over on this README file, entirely.
-- [ ] Go over the links in the things you need to prepared for section.
-- [ ] Participate in Final Project Discussion!
+- [ ] Go over the links in [the things you need to prepared for](#how-to-prepare-to-the-first-class) section.
+- [ ] Review the [commit history](https://github.com/spu-bigdataanalytics-201/welcome/commits/master) on this repository.
+- [ ] Participate in final project discussion!
 
 ## Conclusion
 
