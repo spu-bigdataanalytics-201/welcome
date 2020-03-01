@@ -78,7 +78,7 @@ We use Github Classroom for assignments. Basically, how it works is described in
 2. You click on a link, and you are hacked, and I demand for a small randsom!
 3. Ignore the second step, you click the link, it will automatically create a repository for you under our GitHub webpage.
 4. You download this repository using `git clone https://github.com/..../welcome.git`.
-5. You work on the assignment, do a few commits. 
+5. You work on the assignment, do a few commits, and `git push` it to GitHub.
 6. When you are done with the assignment, you go back to your repository, and **download** it, and upload it to the [blackboard](https://saintpeters.blackboard.com/).
 7. I read it after the deadline passes, and give you a big 0.
 8. Ignore the 7th step, you will be graded.
