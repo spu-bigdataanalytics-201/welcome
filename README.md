@@ -1,4 +1,6 @@
-# Welcome 
+# Welcome :grey_exclamation:
+
+![Big Data](readme-contents/large-data-keyboard-computer.jpg)
 
 You made it! This is our start of a journey for the next few months! 
 
@@ -91,4 +93,27 @@ The task is an open discussion, and **you are required to participate** in this 
 
 Grading will be based on syllabus. We will have assignments, midterm, and final project.
 
-The percentage of your final grade will be calculated using the following function.
+The letter grade of your final grade will be calculated using the following function.
+
+``` py
+from grader import calculate_letter_grade
+
+# this can be you!
+grade = calculate_letter_grade(
+    assignments=[100, 100, 100, 90, 60, 100],
+    final_project=100,
+    midterm=90,
+    return_grade=True
+)
+
+# Gets A (97)
+print(grade)
+```
+
+## Conclusion
+
+That's it! To a wonderful semester, 
+
+Happy coding!
+
+By [@metinsenturk](https://github.com/metinsenturk).
