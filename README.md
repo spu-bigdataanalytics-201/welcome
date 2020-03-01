@@ -110,6 +110,12 @@ grade = calculate_letter_grade(
 print(grade)
 ```
 
+## Your To-Do List for This Task
+
+- [ ] Go over on this README file, entirely.
+- [ ] Go over the links in the things you need to prepared for section.
+- [ ] Participate in Final Project Discussion!
+
 ## Conclusion
 
 That's it! To a wonderful semester, 
