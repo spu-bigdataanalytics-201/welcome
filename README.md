@@ -89,6 +89,8 @@ Your final project will be about a data science task, and the goal is to be able
 
 The task is an open discussion, and **you are required to participate** in this discussion!
 
+At the end of this course, we will replace this line with the task we come up for our final project!
+
 ## Grading
 
 Grading will be based on syllabus. We will have assignments, midterm, and final project.
@@ -117,7 +119,7 @@ print(grade)
 - [ ] Go over the links in [the things you need to prepared for](#how-to-prepare-to-the-first-class) section.
 - [ ] Review the [commit history](https://github.com/spu-bigdataanalytics-201/welcome/commits/master) on this repository.
 - [ ] Try the grading function in [grading](#grading) section.
-- [ ] Participate in final project discussion!
+- [ ] [Participate](https://github.com/spu-bigdataanalytics-201/welcome/issues/1) in final project discussion!
 - [ ] Follow steps in [assignments](#assignments), and push your final changes to GitHub, to your repository. 
 
 ## Conclusion
