@@ -39,6 +39,7 @@ My recommendation is go over the following stuff.
 - Useful to understand how GitHub works, [Github Flow](https://enterprise.github.com/downloads/en/-github-flow-cheatsheet.pdf)
 - Useful for your README.md files, [Github Flawored Markdown Cheat Sheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 - Protips from Data Scientist at GitHub, [Tips, tricks, hacks, and secrets from Alyson La](https://github.blog/2020-04-23-github-protips-tips-tricks-hacks-and-secrets-from-alyson-la/)
+- A simple git learning experience with a desktop app, [Git-it (Desktop App)](https://github.com/jlord/git-it-electron)
 
 ### SQL
 
