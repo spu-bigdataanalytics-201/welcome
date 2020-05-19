@@ -34,7 +34,7 @@ def convert_points_to_letter(point):
     return grade
 
 
-def calculate_letter_grade(assignments: list, final_project: int, midterm: int, return_grade=True):
+def calculate_letter_grade(assignments: list, final_project: int, midterm: int, **kwargs):
     """
     Calculates a letter grade based on student scores.
 
@@ -47,9 +47,9 @@ def calculate_letter_grade(assignments: list, final_project: int, midterm: int, 
     A grade from the letter grade scale.
     """
     # weights
-    pct_assignment = 0.25
-    pct_midterm = 0.25
-    pct_final_project = 0.50
+    pct_assignment = kwargs.get('pct_assignment', 0.50)
+    pct_midterm = kwargs.get('pct_midterm', 0.20)
+    pct_final_project = kwargs.get('pct_final_project', 0.30)
 
     # if bonus is given
     if len(assignments) == 6:
@@ -66,7 +66,7 @@ def calculate_letter_grade(assignments: list, final_project: int, midterm: int, 
     total_points = round(
         points_assignments + points_midterm + points_final_project, 1)
 
-    if return_grade:
+    if kwargs.get('return_grade', True):
         return convert_points_to_letter(total_points)
 
     return total_points

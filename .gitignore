@@ -3,3 +3,9 @@ __pycache__
 
 # all txt files (no student info ;))
 *.txt
+
+# notebook exe
+.ipynb_checkpoints
+
+#
+.DS_Store
